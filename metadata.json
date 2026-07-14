@@ -1,0 +1,6 @@
+{
+  "name": "Coding Ninjas Clone & Developer Tools Hub",
+  "description": "A fully functional and visually polished clone of Coding Ninjas featuring an interactive coding arena, an AI-powered Code Coach, a RapidAPI translator, and a random string generator utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
